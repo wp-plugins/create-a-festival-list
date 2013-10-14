@@ -1,6 +1,6 @@
 === Custom Post type OR Festival List ===
 Contributors: SP Technolab
-Tags: news, custom post type, festival list, section like post
+Tags: news, custom post type, festival list, section like post, post, page
 Requires at least: 3.1
 Tested up to: 3.6
 Stable tag: trunk
