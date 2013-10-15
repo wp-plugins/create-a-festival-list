@@ -42,8 +42,8 @@ Yes, Add a new page and add this short code '[sp_festivals limit="-1"]'.
 == Screenshots ==
 
 1. all Festivals
-2. edit
-3. preview
+2. preview
+3. edit
 
 == Changelog ==
 
