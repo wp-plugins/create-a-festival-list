@@ -14,7 +14,15 @@ A quick, easy way to add an extensible  custom post type OR  Festival List to Wo
 This plugin add a  custom post type OR  Festival List to your Wordpress site..
 
 The plugin adds a Festival tab(you can also change the name if you want to create a custom post type. Just samll change in the code ie 'menu_name'  => __('YOUR CUSTOM POST NAME', 'sp_festivals') to your admin menu, which allows you to enter Festival Title and Description  items just as you would regular posts.
+
 Now just create a new page and add this short code '[sp_festivals limit="-1"]'.
+
+= Features include: =
+* Simple plugin so that you can customize it as per your need.
+* With basic wordpress knowladge you can create your own SHORT CODE
+* Easy to configure
+* Smoothly integrates into any theme
+
 
 == Installation ==
 
