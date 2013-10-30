@@ -12,7 +12,9 @@ A quick, easy way to add an extensible custom post type  in your  Wordpress site
 == Description ==
 
 This custom post type plugin add a  custom post  to your Wordpress site. You can use this plugin to create any kind of custom post type.
-  
+ 
+View [screenshots](http://wordpress.org/plugins/create-a-festival-list/screenshots/) for additional information.
+ 
 The custom post type plugin adds a by default tab name "Custom Post Name"(Which you can change under setting page) to your admin menu, which allows you to enter Custom post Title and Description  items just as you would regular posts.
 
 You can also create your own shortcode to display your custom post.
