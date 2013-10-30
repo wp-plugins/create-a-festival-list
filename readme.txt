@@ -71,7 +71,7 @@ Yes, Add a new page and add this short code <code>[YOUR SHORTCODE limit="-1"]<co
 3. Added Menu tab from setting
 4. Seeting page
 5. Single post view
-6. How to add your own shortcode
+
 
 == Changelog ==
 
