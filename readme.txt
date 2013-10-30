@@ -10,6 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A quick, easy way to add an extensible custom post type  in your  Wordpress site. 
 
 == Description ==
+Many wordpress developer require custom post type plugin becouse wordpress by default give only one post section and page section.
 
 This custom post type plugin add a  custom post  to your Wordpress site. You can use this plugin to create any kind of custom post type.
  
@@ -67,10 +68,10 @@ Yes, Add a new page and add this short code <code>[YOUR SHORTCODE limit="-1"]<co
 == Screenshots ==
 
 1. All Custom Type Posts
-2. Plugin view
-3. Added Menu tab from setting
-4. Seeting page
-5. Single post view
+2. Custom post type Plugin view
+3. Added Menu tab from custom post type setting
+4. Custom post type Seeting page
+5. Custom post type Single post view
 
 
 == Changelog ==
