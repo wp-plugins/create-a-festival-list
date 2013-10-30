@@ -1,6 +1,6 @@
 === Custom Post type and short code  ===
 Contributors:SP Technolab, anoopranawat 
-Tags: news,  news custom post type, custom post type, shortcode, custom post type plugin festival list, section like post, post, page
+Tags: news, cpt,  news custom post type, custom post type, shortcode, custom post type plugin festival list, section like post, post, page
 Requires at least: 3.1
 Tested up to: 3.7
 Stable tag: trunk
