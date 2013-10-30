@@ -40,7 +40,7 @@ Now just create a new page and add this short code <code>[YOUR SHORTCODE limit="
 
 1. Upload the 'Festivals list' folder to the '/wp-content/plugins/' directory.
 2. Activate the Festivals list plugin through the 'Plugins' menu in WordPress.
-3. Add a new page and add this short code <code>[YOUR SHORTCODE limit="-1"]<code>.
+3. Add a new page and add this short code <code>[YOUR SHORTCODE limit="-1"]</code>.
 
 = setting -> Custom Post Type Settings =
 * Menu Name  ie Moive
