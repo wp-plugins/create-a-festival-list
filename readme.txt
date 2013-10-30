@@ -19,7 +19,7 @@ The custom post type plugin adds a by default tab name "Custom Post Name"(Which 
 
 You can also create your own shortcode to display your custom post.
 
-Now just create a new page and add this short code <code>[YOUR SHORTCODE limit="-1"]</code> (Please see setting -> Custom Post Type Settings).
+Now just create a new page for your custom post type and add this short code <code>[YOUR SHORTCODE limit="-1"]</code> (Please see setting -> Custom Post Type Settings).
 
 = setting -> Custom Post Type Settings =
 * Menu Name  ie Moive
