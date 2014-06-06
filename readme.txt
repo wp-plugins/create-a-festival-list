@@ -15,7 +15,9 @@ Many wordpress developer require custom post type plugin becouse wordpress by de
 This custom post type plugin add a  custom post  to your Wordpress site. You can use this plugin to create any kind of custom post type.
  
 View [screenshots](http://wordpress.org/plugins/create-a-festival-list/screenshots/) for additional information.
- 
+
+View [Demo](http://wordpressplugins.sptechnolab.com/cpt-plugin/) for additional information.
+
 The custom post type plugin adds a by default tab name "Custom Post Name"(Which you can change under setting page) to your admin menu, which allows you to enter Custom post Title and Description  items just as you would regular posts.
 
 You can also create your own shortcode to display your custom post.
