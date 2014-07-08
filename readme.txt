@@ -16,7 +16,7 @@ This custom post type plugin add a  custom post  to your Wordpress site. You can
  
 View [screenshots](http://wordpress.org/plugins/create-a-festival-list/screenshots/) for additional information.
 
-View [Demo](http://wordpushplugins.in/header-image-slider/) for additional information.
+View [Demo](http://wordpushplugins.in/cpt-plugin/) for additional information.
 
 The custom post type plugin adds a by default tab name "Custom Post Name"(Which you can change under setting page) to your admin menu, which allows you to enter Custom post Title and Description  items just as you would regular posts.
 
