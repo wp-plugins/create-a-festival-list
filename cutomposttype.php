@@ -114,37 +114,14 @@ function sp_cpt_shortcode( $atts, $content = null ) {
 	
 	//Get post type count
 	$post_count = $query->post_count;
-	$i = 1;
+	
 	
 	// Displays Custom post info
 	if( $post_count > 0) :
 	
 		// Loop
 		while ($query->have_posts()) : $query->the_post();
-		?>
-		<div class="custompost" style="width:100%; float:left; padding-bottom:15px;">
-		
-		<?php if ( has_post_thumbnail() && ! post_password_required() ) : ?>
-		<div class="entry-thumbnail" >
-			<?php the_post_thumbnail(); ?>
-		</div>
-		<?php endif; ?>
-		
-		
-		 <h3><a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a></h3>
-		 
-		
-		 
-		 <div class="entry-meta post-info">
-            <span class="date published time" title="<?php the_time('c') ?>"><?php the_time('F j, Y') ?></span>
-          </div> <!-- .entry-meata .post-info -->
-			<div class="entry-summary">
-		<?php the_excerpt(); ?><a class="moretag" href="<?php the_permalink() ?>"> Read More..</a>
-	</div><!-- .entry-summary -->
-	
-		</div>
-		<?php
-		$i++;
+		get_template_part('content'); 
 		endwhile;
 		
 	endif;
