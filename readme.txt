@@ -19,8 +19,8 @@ View [screenshots](http://wordpress.org/plugins/create-a-festival-list/screensho
 View [Demo](http://wordpushplugins.in/cpt-plugin/) for additional information.
 
 = Installation help and support =
-* Please check installation help on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
-* Get Free installation and setup on your website.
+* Please check [installation help](http://wponlinesupport.com/plugin-installation-support/)  on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
+* Get [Free installation and setup](http://wponlinesupport.com/plugin-installation-support/)  on your website.
 
 The custom post type plugin adds a by default tab name "Custom Post Name"(Which you can change under setting page) to your admin menu, which allows you to enter Custom post Title and Description  items just as you would regular posts.
 
