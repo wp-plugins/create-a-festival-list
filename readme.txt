@@ -16,8 +16,6 @@ This custom post type plugin add a  custom post  to your Wordpress site. You can
  
 View [screenshots](http://wordpress.org/plugins/create-a-festival-list/screenshots/) for additional information.
 
-View [Demo](http://wordpushplugins.in/cpt-plugin/) for additional information.
-
 = Installation help and support =
 * Please check [installation help](http://wponlinesupport.com/plugin-installation-support/)  on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
 * Get [Free installation and setup](http://wponlinesupport.com/plugin-installation-support/)  on your website.
